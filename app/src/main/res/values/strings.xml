@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FSclient</string>
+    <string name="title_activity_maps">FSclient</string>
+
+    <string name="Validate">OK</string>
+    <string name="Reset">Reset</string>
+    <string name="Cancel">Cancel</string>
+    <string name="runText">RUN</string>
+
+    <string name="ipHint">Server IP</string>
+    <string name="portHint">Server Port</string>
+    <string name="feedHint">Server Feed ID</string>
+
+    <string name="ipDefault">192.18.49.52</string>
+    <string name="portDefault">8080</string>
+    <string name="feedDefault">123456123456123456123456</string>
+
+    <string name="menuRun">Run</string>
+    <string name="menuParameters">Parameters</string>
+
+    <string name="dialogIPText">Server IP Address</string>
+    <string name="dialogPortText">Server Port</string>
+    <string name="dialogFeedText">Feed ID</string>
+</resources>
